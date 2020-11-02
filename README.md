@@ -10,3 +10,12 @@ Code 2: "journeyClean_portsInfo.ipynb"
 
 Display, group terminals,assign common port, and add extra features.
 This code is used to group terminals by given radius (e.g., 100 nm), and to add extra features "Main_port" and "Region". The working dataset in this sheet is "PortList.csv";
+
+Code 3: "update1_groupTerminals.ipynb"
+
+Update the port file "portsInfo_new.csv" in terms of the feature "Port Group". A more refined terminals grouping is obtained
+
+Code 4: "weather_ais_input.ipynb"
+
+the original ais data file to inquire the weather ais data is too large in size. 
+This code is used to reduce the data file size by factors such as journey distance (e.g., longer than 3000nm), journey in open seas, and journey not in the same contry. 
