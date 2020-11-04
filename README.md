@@ -18,8 +18,6 @@ Update the port file "portsInfo_new.csv" in terms of the feature "Port Group". A
 Code 4: "weather_ais_input.ipynb"
 
 the original ais data file to inquire the weather ais data is too large in size. 
-<<<<<<< HEAD
 This code is used to reduce the data file size by factors such as journey distance (e.g., longer than 3000nm), journey in open seas, and journey not in the same contry. 
-=======
-This code is used to reduce the data file size by factors such as journey distance (e.g., longer than 3000nm), journey in open seas, and journey not in the same contry. 
->>>>>>> a6e1e3002782f06eeda6ede903ff061935ed1b8f
+
+
