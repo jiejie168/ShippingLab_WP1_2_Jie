@@ -20,4 +20,15 @@ Code 4: "weather_ais_input.ipynb"
 the original ais data file to inquire the weather ais data is too large in size. 
 This code is used to reduce the data file size by factors such as journey distance (e.g., longer than 3000nm), journey in open seas, and journey not in the same contry. 
 
+Code 5: extract routes between specific regions.
+Filter all the specific routes between differnet regions, ready for the next step in waypoints extracting. 
 
+Code 6: data cleaning for the hourly ais dataset
+
+Code 7: extract routes between specific regions from hourly ais data
+
+Code 8: A visulization of routes btw regions - daily based
+
+Code 9:load and present regions between regions, hourly based
+
+Code 10:identify region waypoints based on DBSCAN, hourly based data
